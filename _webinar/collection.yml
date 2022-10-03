@@ -1,0 +1,10 @@
+collections:
+  webinar:
+    output: true
+    order:
+      - Webinar Schedule.md
+      - Monday.md
+      - Tuesday.md
+      - Wednesday.md
+      - Thursday.md
+      - Friday.md

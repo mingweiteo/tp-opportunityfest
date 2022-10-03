@@ -1,13 +1,28 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Temp Album/TP Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Career Preparation
+    url: /careerpreparation
+    sublinks:
+      - title: Career Resources
+        url: https://www.tp.edu.sg/life-at-tp/career-services/get-ahead-with-your-career.html#careerops
+      - title: Career Fairs
+        url: /careerfairs
+  - title: Further Education
+    url: /furthereducation
+  - title: "Work-Study Programme "
+    url: /wsp
+  - title: Scholarship
+    url: https://www.tp.edu.sg/life-at-tp/career-services/further-education.html#scholarships
+  - title: Webinar
+    url: /TPOF2022WebinarSchedule
+    sublinks:
+      - title: Monday
+        url: /webinar/Monday
+      - title: Tuesday
+        url: /webinar/Tuesday
+      - title: Wednesday
+        url: /webinar/Wednesday
+      - title: Thursday
+        url: /webinar/Thursday
+      - title: Friday
+        url: /webinar/Friday
