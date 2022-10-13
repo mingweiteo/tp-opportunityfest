@@ -12,17 +12,17 @@ links:
   - title: "Work-Study Programme "
     url: /wsp
   - title: Scholarship
-    url: https://www.tp.edu.sg/life-at-tp/career-services/further-education.html#scholarships
-  - title: Webinar
+    url: /scholarship/
+  - title: Webinars
     url: /TPOF2022WebinarSchedule
     sublinks:
-      - title: Monday
+      - title: 07 Nov Monday
         url: /webinar/Monday
-      - title: Tuesday
+      - title: 08 Nov Tuesday
         url: /webinar/Tuesday
-      - title: Wednesday
+      - title: 09 Nov Wednesday
         url: /webinar/Wednesday
-      - title: Thursday
+      - title: 10 Nov Thursday
         url: /webinar/Thursday
-      - title: Friday
+      - title: 11 Nov Friday
         url: /webinar/Friday

@@ -1,19 +1,24 @@
 ---
 title: Further Education
-permalink: /furthereducation
+permalink: /furthereducation/
 description: ""
 ---
-### **Autonomous University**
+##### **For students aspiring further education, there are many available options for you to explore and consider.**
 
-- [NUS](https://www.nus.edu.sg/oam/)
-- [NTU](https://www.ntu.edu.sg/admissions)
-- [SIT](https://www.singaporetech.edu.sg/)
-- [SMU](https://www.smu.edu.sg/)
-- [SUSS](https://www.suss.edu.sg/)
-- [SUTD](https://www.sutd.edu.sg/)
+#### **Autonomous University**
+###### **There are 6 local autonomous universities (AU) offering a wide variety of courses to meet the aspirations of the TP graduates.**
 
-### **Private Education**
-For students who wish to consider private education,  do advise them to consider the [**3Rs**](https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html "https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html"), and check that the institution and course is registered with the Council for Private Education ([**CPE**](https://www.ssg.gov.sg/cpe/pei.html)) beforehand.
+- Nanyang Technological University, [NTU](https://www.ntu.edu.sg/admissions) 
+- National University of Singapore, [NUS](https://www.nus.edu.sg/oam/) 
+- Singapore Institute of Technology, [SIT](https://www.singaporetech.edu.sg/) 
+- Singapore Management University, [SMU](https://www.smu.edu.sg/)
+- Singapore University of Social Sciences, [SUSS](https://www.suss.edu.sg/) 
+- Singapore University of Technology and Design, [SUTD](https://www.sutd.edu.sg/)
 
-### **Overseas Education**
-Other than the cost, there are many factors to consider when chossing an overseas university.  This includes the campus culture, learning style, future prospects amongst others.
+#### **Overseas Education**
+There are many factors to consider when choosing an overseas university. These includes the university's strength in the programme of choice, campus culture, learning style, future prospects and costs.
+
+#### **Private Education**
+For students who wish to consider further education with a Private Education Institute (PEI), do take note of the [**3Rs**](https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html "https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html") (Reasons, Readiness and Risks), and check that the institution and course are registered with the Council for Private Education ([**CPE**](https://www.ssg.gov.sg/cpe/pei.html)).
+
+##### **Check out the Further Education webinars [here](/TPOF2022WebinarSchedule/).**

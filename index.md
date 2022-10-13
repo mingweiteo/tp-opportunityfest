@@ -2,7 +2,7 @@
 layout: homepage
 title: Temasek Polytechnic Opportunity Fest 2022
 description: An info site for TPOF 2022
-image: /images/isomer-logo.svg
+image: /images/Asset/TPOF2022_2.jpg
 permalink: /
 notification: ""
 sections:
@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: Entrepreneur / Freelancer
       description: "Aspires to be own boss. May be passionate to make a difference or
-        serve a cause. Likes to take risks for rewards. "
+        serve a cause. "
       button: Find out more
       url: /entrepreneurlfreelancer
       alt: Image alt text
@@ -53,3 +53,4 @@ sections:
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner
 ---
+
