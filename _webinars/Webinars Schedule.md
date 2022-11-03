@@ -1,5 +1,5 @@
 ---
-title: Webinar Schedule
+title: Webinars Schedule
 permalink: /TPOF2022WebinarSchedule/
 description: ""
 ---
