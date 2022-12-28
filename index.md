@@ -1,21 +1,21 @@
 ---
 layout: homepage
-title: Temasek Polytechnic Opportunity Fest 2022
-description: An info site for TPOF 2022
+title: "Temasek Polytechnic Opportunity Fest "
+description: An info site for TPOF
 image: /images/Asset/TPOF2022_2.jpg
 permalink: /
-notification: Welcome to TPOF 2022. Check out the webinars happening today!
+notification: "Hello there! Check out the recorded webinars! "
 sections:
   - hero:
-      background: /images/Asset/TPOF2022_2.jpg
+      background: /images/Asset/Microsite Web Banner.png
       url: /contact-us/
       key_highlights:
-        - title: About TPOF 2022
+        - title: About TPOF
           description: ""
           url: /abouttpof2022
-        - title: Webinars Schedule
-          description: Start your exploration
-          url: /TPOF2022WebinarSchedule
+        - title: "Webinars "
+          description: Rewatch recorded webinars
+          url: /rewatchwebinar/
         - title: Let's Chat
           description: Make an appointment
           url: /EducationCareerGuidance
