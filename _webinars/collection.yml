@@ -1,0 +1,11 @@
+collections:
+  webinars:
+    output: true
+    order:
+      - Webinars Schedule.md
+      - 07 Nov Monday.md
+      - 08 Nov Tuesday.md
+      - 09 Nov Wednesday.md
+      - 10 Nov Thursday.md
+      - 11 Nov Friday.md
+      - Speaker Profiles.md
